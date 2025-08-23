@@ -1,0 +1,18 @@
+# Core
+llama-index==0.13.0
+faiss-cpu
+pandas
+tabulate
+ipywidgets
+
+# Embeddings + Reranker
+sentence-transformers
+
+# LLM backend
+ollama
+
+# Optional
+openpyxl   # لقراءة xlsx
+xlrd       # لقراءة xls
+python-docx  # لقراءة docx
+PyMuPDF    # لقراءة PDF
