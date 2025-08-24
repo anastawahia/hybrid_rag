@@ -1,18 +1,27 @@
 # Core
-llama-index==0.13.0
+llama-index>=0.13.0
+llama-index-core>=0.13.0
+llama-index-llms-ollama>=0.1.0
+llama-index-embeddings-huggingface>=0.1.0
+llama-index-vector-stores-faiss>=0.1.0
 faiss-cpu
-pandas
+pandas>=2.0.0
 tabulate
-ipywidgets
+ipywidgets>=8.1.7
+jupyter
 
 # Embeddings + Reranker
-sentence-transformers
+sentence-transformers>=2.2.0
 
 # LLM backend
-ollama
+ollama>=0.1.0
 
-# Optional
-openpyxl   # لقراءة xlsx
-xlrd       # لقراءة xls
-python-docx  # لقراءة docx
-PyMuPDF    # لقراءة PDF
+# Data processing
+tqdm
+numpy>=1.24.0
+
+# File format support
+openpyxl    # Excel XLSX files
+xlrd        # Excel XLS files
+python-docx # Word DOCX files
+PyMuPDF     # PDF files
