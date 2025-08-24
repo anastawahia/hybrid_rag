@@ -1,0 +1,457 @@
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,Water Treatment Plant (WTP) Motor  List,,,,,,,,,,,,,
+,No.,Process related identifcation,,,Location identification,,Equipment identification,,,,,,,
+,,KKS Number, Equipment Description, System,Location / Plant Area,Mouunting / Elevation,Manufacturer,Serial No. /Manufacturer Part No.,Type/Model,Technical Specification,Additional Specifications,Unit,Quantity,P&ID Number / Drawing Number
+,1,10GAF90AP001M01,Feed Water Pump For Filter A,GAF,Water Treatment Plant Pumps Room,0.00MEL,SIEMENS,"
+1807/800017707585/001","0CV3204A
+","30kW, 400V, 50Hz, 52A, 2955RPM, cosɸ 0.89, EFF. 93.3%, EFF. Cl. IE3, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 200L, 250kg, ","Bearing :  DE 6212 Z C3,  NDE 6212 Z C3",SET,1,APCOD-1-DW-WW-GAD-302-010-S001
+,2,10GAF91AP001M01,Feed Water Pump For Filter B,GAF,Water Treatment Plant Pumps Room,0.00MEL,SIEMENS,"
+1807/800017707585/002"," 0CV3204A
+","30kW, 400V, 50Hz, 52A, 2955RPM, cosɸ 0.89, EFF. 93.3%, EFF. Cl. IE3, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 200L, 250kg, ","Bearing :  DE 6212 Z C3,  NDE 6212 Z C3",SET,1,APCOD-1-DW-WW-GAD-302-010-S001
+,3,10GBP11AP001M01,Filter Backwash Water Pump A,GBP,Water Treatment Plant Pumps Room,0.00MEL,SIEMENS,"
+1808/800017835870/001","0CV3205A
+","37kW, 400V, 50Hz, 64A, 2955RPM, cosɸ 0.89, EFF. 93.7%, EFF. Cl. IE3, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 200L, 260kg, ","Bearing :  DE 6212 Z C3,  NDE 6212 Z C3",SET,1,DV-KBE2-WT-001-GBP-04
+,4,10GBP12AP001M01,Filter Backwash Water Pump B,GBP,Water Treatment Plant Pumps Room,0.00MEL,SIEMENS,"
+1808/800017835870/002","0CV3205A
+","37kW, 400V, 50Hz, 64A, 2955RPM, cosɸ 0.89, EFF. 93.7%, EFF. Cl. IE3, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 200L, 260kg, ","Bearing :  DE 6212 Z C3,  NDE 6212 Z C3",SET,1,DV-KBE2-WT-001-GBP-04
+,5,10GCK21AP001M01,UF Backwash Water Pump A,GCK,Water Treatment Plant Pumps Room,0.00MEL,SIEMENS,"
+1807/800017707515/004"," 0CV3163A
+","15kW, 400V, 50Hz, 26.5A, 2930RPM, cosɸ 0.89, EFF. 91.9%, EFF. Cl. IE3, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 160M, 107kg, ","Bearing :  DE 6209 2Z C3,  NDE 6209 2Z C3",SET,1,DV-KBE2-WT-001-GCK-14
+,6,10GCK22AP001M01,UF Backwash Water Pump B,GCK,Water Treatment Plant Pumps Room,0.00MEL,SIEMENS,"
+1807/800017707515/005"," 0CV3163A
+","15kW, 400V, 50Hz, 26.5A, 2930RPM, cosɸ 0.89, EFF. 91.9%, EFF. Cl. IE3, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 160M, 107kg, ","Bearing :  DE 6209 2Z C3,  NDE 6209 2Z C3",SET,1,DV-KBE2-WT-001-GCK-14
+,7,10GCK23AP001M01,RO Booster Pump A,GCK,Water Treatment Plant Pumps Room,0.00MEL,SIEMENS,"
+1807/800017707515/002","0CV3163A
+","15kW, 400V, 50Hz, 26.5A, 2930RPM, cosɸ 0.89, EFF. 91.9%, EFF. Cl. IE3, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 160M, 107kg, ","Bearing :  DE 6209 2Z C3,  NDE 6209 2Z C3",SET,1,DV-KBE2-WT-001-GCK-14
+,8,10GCK24AP001M01,RO Booster Pump B,GCK,Water Treatment Plant Pumps Room,0.00MEL,SIEMENS,"
+1807/800017707515/001","0CV3163A
+","15kW, 400V, 50Hz, 26.5A, 2930RPM, cosɸ 0.89, EFF. 91.9%, EFF. Cl. IE3, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 160M, 107kg, ","Bearing :  DE 6209 2Z C3,  NDE 6209 2Z C3",SET,1,DV-KBE2-WT-001-GCK-14
+,9,10GCP12AP001M01,Anion & Cation Exchanger Regeneration Pump A,GCP,Water Treatment Plant Pumps Room,0.00MEL,SIEMENS,"
+ 1807/800017707492/003"," 0CV3130A
+","5.5kW, 400V, 50Hz, 10A, 2930RPM, cosɸ 0.89, EFF. 89.2%, EFF. Cl. IE3, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 132S, 64kg, ","Bearing :  DE 6208 2Z C3,  NDE 6208 2Z C3",SET,1,DV-KBE2-WT-001-GHC-22
+,10,10GCP13AP001M01,Anion & Cation Exchanger Regeneration Pump B,GCP,Water Treatment Plant Pumps Room,0.00MEL,SIEMENS,"
+1807/800017707492/004"," 0CV3130A
+","5.5kW, 400V, 50Hz, 10A, 2930RPM, cosɸ 0.89, EFF. 89.2%, EFF. Cl. IE3, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 132S, 64kg, ","Bearing :  DE 6208 2Z C3,  NDE 6208 2Z C3",SET,1,DV-KBE2-WT-001-GHC-22
+,11,10GCP14AP001M01,Mixed Bed Exchanger Regeneration Pump A,GCP,Water Treatment Plant Pumps Room,0.00MEL,SIEMENS,"
+1807/800017707480/001","0CV3104A
+","3kW, 400V, 50Hz, 5.7A, 2875RPM, cosɸ 0.87, EFF. 87.1%, EFF. Cl. IE3, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 100L, 39kg, ","Bearing :  DE 6206 2Z C3,  NDE 6206 2Z C3",SET,1,DV-KBE2-WT-001-GHC-22
+,12,10GCP15AP001M01,Mixed Bed Exchanger Regeneration Pump B,GCP,Water Treatment Plant Pumps Room,0.00MEL,SIEMENS,"
+ 1807/800017707480/002","0CV3104A
+","3kW, 400V, 50Hz, 5.7A, 2875RPM, cosɸ 0.87, EFF. 87.1%, EFF. Cl. IE3, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 100L, 39kg, ","Bearing :  DE 6206 2Z C3,  NDE 6206 2Z C3",SET,1,DV-KBE2-WT-001-GHC-22
+,13,10GCP16AP001M01,UF and RO CIP Skid control cabinet (UF Chemical cleaning pump 2),GCP,Water Treatment Plant,0.00MEL,SIEMENS,"
+ 1807/800017707526/001"," 0CV3164B
+","15kW, 400V, 50Hz, 27.5A, 1460RPM, cosɸ 0.86, EFF. 92.1%, EFF. Cl. IE3, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 160L, 134kg, ","Bearing :  DE 6209 2Z C3,  NDE 6209 2Z C3",SET,1,DV-KBE2-WT-001-GCP-17
+,14,10GCP16AP002M01,UF and RO CIP Skid control cabinet (RO Chemical cleaning pump 2),GCP,Water Treatment Plant,0.00MEL,SIEMENS,"
+1807/800017707514/001"," 0CV3162A
+","11kW, 400V, 50Hz, 19.6A, 2935RPM, cosɸ 0.89, EFF. 91.2%, EFF. Cl. IE3, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 160M, 99kg, ","Bearing :  DE 6209 2Z C3,  NDE 6209 2Z C3",SET,1,DV-KBE2-WT-001-GCP-17
+,15,10GCP11AP001M01,RO Flushing Pump,GCP,Water Treatment Plant Pumps Room,0.00MEL,SIEMENS,"
+ 1807/800017707514/002","0CV3162A
+","11kW, 400V, 50Hz, 19.6A, 2935RPM, cosɸ 0.89, EFF. 91.2%, EFF. Cl. IE3, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 160M, 99kg, ","Bearing :  DE 6209 2Z C3,  NDE 6209 2Z C3",SET,1,
+,16,10GCF31AP001M01,DECARBONATED WATER TRANSFER PUMP (31)A,GCF,Water Treatment Plant Pumps Room,0.00MEL,SIEMENS,"
+ 1807/800017707515/006","0CV3163A
+","15kW, 400V, 50Hz, 26.5A, 2930RPM, cosɸ 0.89, EFF. 91.9%, EFF. Cl. IE3, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 160M, 107kg, ","Bearing :  DE 6209 2Z C3,  NDE 6209 2Z C3",SET,1,APCO-1-DW-WT-GCF-302-004-to 008
+,17,10GCF32AP001M01,DECARBONATED  WATER TRANSFER PUMP (32) B,GCF,Water Treatment Plant Pumps Room,0.00MEL,SIEMENS,"
+1807/800017707515/003"," 0CV3163A
+","15kW, 400V, 50Hz, 26.5A, 2930RPM, cosɸ 0.89, EFF. 91.9%, EFF. Cl. IE3, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 160M, 107kg, ","Bearing :  DE 6209 2Z C3,  NDE 6209 2Z C3",SET,1,APCO-1-DW-WT-GCF-302-004-to 008
+,18,10GCF14AP001M01,CONCENTRATED WATER RO Booster PUMP (14)A,GCF,Water Treatment Plant Pumps Room,0.00MEL,SIEMENS,"
+1807/800017707492/002","0CV3130A
+","5.5kW, 400V, 50Hz, 10A, 2930RPM, cosɸ 0.89, EFF. 89.2%, EFF. Cl. IE3, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 132S, 64kg, ","Bearing :  DE 6208 2Z C3,  NDE 6208 2Z C3",SET,1,APCO-1-DW-WT-GCF-302-004-to 008
+,19,10GCF15AP001M01,CONCENTRATED WATER RO Booster PUMP (15)B,GCF,Water Treatment Plant Pumps Room,0.00MEL,SIEMENS,"
+1807/800017707492/001"," 0CV3130A
+","5.5kW, 400V, 50Hz, 10A, 2930RPM, cosɸ 0.89, EFF. 89.2%, EFF. Cl. IE3, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 132S, 64kg, ","Bearing :  DE 6208 2Z C3,  NDE 6208 2Z C3",SET,1,APCO-1-DW-WT-GCF-302-004-to 008
+,20,10GCF16AP001M01,Concentrated Water RO High Pressure pump A,GCF, Water Treatment Plant,0.00MEL,SIEMENS,"
+1808/800017835871/001"," 0CV3205A
+","37kW, 400V, 50Hz, 64A, 2955RPM, cosɸ 0.89, EFF. 93.7%, EFF. Cl. IE3, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 200L, 260kg, ","Motor Fan : Type G-200A, 120W, 3Ph, 220/380V 50Hz Delta/Star, IP55, wind vol. 1750 m3/h, wind pressure 85 Pa, 1400RPM, No. 63145
+Bearing : DE 6212 Z C3,  NDE 6212 Z C3",SET,1,APCO-1-DW-WT-GCF-302-004-to 008
+,21,10GCF17AP002M01,Concentrated Water RO High Pressure pump B,GCF, Water Treatment Plant,0.00MEL,SIEMENS,"
+1808/800017835871/002"," 0CV3205A
+","37kW, 400V, 50Hz, 64A, 2955RPM, cosɸ 0.89, EFF. 93.7%, EFF. Cl. IE3, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 200L, 260kg, ","Motor Fan : Type G-200A, 120W, 3Ph, 220/380V 50Hz Delta/Star, IP55, wind vol. 1750 m3/h, wind pressure 85 Pa, 1400RPM, No. 63146
+Bearing : DE 6212 Z C3, NDE 6212 Z C3",SET,1,APCO-1-DW-WT-GCF-302-004-to 008
+,22,10GCF11AP001M01,RO High Pressure Pump A,GCF, Water Treatment Plant,0.00MEL,SIEMENS,"
+1807/800017707598/002"," 0CV3252A
+","55kW, 400V, 50Hz, 95A, 2975RPM, cosɸ 0.89, EFF. 94.3%, EFF. Cl. IE3, Th. Cl. 155(F), IMB3, IP55,  250M, 425kg, ","Motor Fan : Type G-250A, 230W, 3Ph, 220/380V 50Hz Delta/Star, IP55, wind vol. 1900 m3/h, wind pressure 90 Pa, 1400RPM, No. 60204
+Bearing :  DE 6215 C3,  NDE 6215 C3",SET,1,APCO-1-DW-WT-GCF-302-004-to 008
+,23,10GCF11AP002M01,RO High Pressure Pump B,GCF, Water Treatment Plant,0.00MEL,SIEMENS,"
+1807/800017707598/001"," 0CV3252A
+","55kW, 400V, 50Hz, 95A, 2975RPM, cosɸ 0.89, EFF. 94.3%, EFF. Cl. IE3, Th. Cl. 155(F), IMB3, IP55,  250M, 425kg, ","Motor Fan : Type G-250A, 230W, 3Ph, 220/380V 50Hz Delta/Star, IP55, wind vol. 1900 m3/h, wind pressure 90 Pa, 1400RPM, No. 60199
+Bearing :  DE 6215 C3,  NDE 6215 C3",SET,1,APCO-1-DW-WT-GCF-302-004-to 008
+,24,10GCF10AN001M01,Blower for decarbonator A,GCF,Outside Water Treatment Plant,0.00MEL,SIEMENS, 1809/800018085771/002,"ILE0001-1BA20-4JA4
+","4kW, 400V, 50Hz, 7.8A, 2930RPM, cosɸ 0.86, EFF. 85.8%, EFF. Cl. IE3, Th. Cl. 155(F), IMB35, IP55, SF 1.15, 112M, 42kg, ","Bearing :  DE 6206 2Z C3,  NDE 6206 2Z C3",SET,1,APCO-1-DW-WT-GCF-302-004-to 008
+,25,10GCF20AN001M01,Blower for decarbonator B,GCF,Outside Water Treatment Plant,0.00MEL,SIEMENS, 1809/800018085771/001," ILE0001-1BA20-4JA4
+","4kW, 400V, 50Hz, 7.8A, 2930RPM, cosɸ 0.86, EFF. 85.8%, EFF. Cl. IE3, Th. Cl. 155(F), IMB35, IP55, SF 1.15, 112M, 42kg, ","Bearing :  DE 6206 2Z C3,  NDE 6206 2Z C3",SET,1,APCO-1-DW-WT-GCF-302-004-to 008
+,26,10LDN22AP001M01,Flushing water pump A,LDN,Water Treatment Plant Pumps Room,0.00MEL,WEG,"
+ 1045214061",,"22kW, 400V, 50Hz, 45.3A, 2935RPM, cosɸ 0.88, Ins. Cl. F ,  IP55, SF 1.15, S1, 180M-02, 174kg, "," Bearing :  DE 6311 ZZ C3, NDE 6211 ZZ C3 
+Grease Type : MOBIL POLYREX EM",SET,1,writing the Data sheet of motor
+,27,10LDN23AP001M01,Flushing water pump B,LDN,Water Treatment Plant Pumps Room,0.00MEL,WEG,"
+1045214060",,"22kW, 400V, 50Hz, 45.3A, 2935RPM, cosɸ 0.88, Ins. Cl. F ,  IP55, SF 1.15, S1, 180M-02, 174kg, "," Bearing :  DE 6311 ZZ C3, NDE 6211 ZZ C3 
+Grease Type : MOBIL POLYREX EM",SET,1,writing the Data sheet of motor
+,28,10LDN24AP001M01,Flushing water pump C,LDN,Water Treatment Plant Pumps Room,0.00MEL,WEG,"
+1045214059",,"22kW, 400V, 50Hz, 45.3A, 2935RPM, cosɸ 0.88, Ins. Cl. F ,  IP55, SF 1.15, S1, 180M-02, 174kg, "," Bearing :  DE 6311 ZZ C3, NDE 6211 ZZ C3 
+Grease Type : MOBIL POLYREX EM",SET,1,writing the Data sheet of motor
+,29,10GHC22AP001M01,Demineralized Water Transfer Pump A,GHC,Water Treatment Plant Pumps Room,0.00MEL,SIEMENS, 1807/800017707516/002," 0CV3164A
+","18.5kW, 400V, 50Hz, 32.5A, 2940RPM, cosɸ 0.89, EFF. 92.4%, EFF. Cl. IE3, Th. Cl. 155(F), IMB3, IP55, 160L, 131kg, ","Motor Fan : Type G-160A, 45W, 3Ph, 220/380V 50Hz Delta/Star, IP55, wind vol. 650 M3/h, wind pressure 65 Pa, 1400RPM, No. 60051
+Bearing :  DE 6209 2Z C3,  NDE 6209 2Z C3",SET,1,writing the Data sheet of motor
+,30,10GHC23AP001M01,Demineralized Water Transfer Pump B,GHC,Water Treatment Plant Pumps Room,0.00MEL,SIEMENS,1807/800017707516/001," 0CV3164A
+","18.5kW, 400V, 50Hz, 32.5A, 2940RPM, cosɸ 0.89, EFF. 92.4%, EFF. Cl. IE3, Th. Cl. 155(F), IMB3, IP55, 160L, 131kg,","Motor Fan : Type G-160A, 45W, 3Ph, 220/380V 50Hz Delta/Star, IP55, wind vol. 650 M3/h, wind pressure 65 Pa, 1400RPM, No. 60054
+Bearing :   DE 6209 2Z C3,  NDE 6209 2Z C3",SET,1,writing the Data sheet of motor
+,31,10GHC23AP001M01,Demineralized Water Transfer Pump C,GHC,Water Treatment Plant Pumps Room,0.00MEL,SIEMENS, 1807/800017707592/001,"0CV3222A
+","45kW, 400V, 50Hz, 78A, 2960RPM, cosɸ 0.89, EFF. 94%, EFF. Cl. IE3, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 225M, 342kg,"," Bearing :  DE 6213 Z C3,  NDE 6213 Z C3",SET,1,writing the Data sheet of motor
+,32,10GCR14AP001M01,Waste Water Transfer Pump A,GCR, Water Treatment Plant,0.00MEL,SIEMENS,1808/800017807164/004, 0CV3163A,"15kW, 400V, 50Hz, 26.5A, 2930RPM, cosɸ 0.89, EFF. 91.9%, EFF. Cl. IE3, Th. Cl. 155(F), IMV1, IP55, 160M, 114kg, ","Bearing :  DE 6309 2Z C3,  NDE 6209 2Z C3",SET,1,DV-KBE2-WT-001-GCR-19
+,33,10GCR15AP001M01,Waste Water Transfer Pump B,GCR, Water Treatment Plant,0.00MEL,SIEMENS,1808/800017807164/005," 0CV3163A
+","15kW, 400V, 50Hz, 26.5A, 2930RPM, cosɸ 0.89, EFF. 91.9%, EFF. Cl. IE3, Th. Cl. 155(F), IMV1, IP55, 160M, 114kg, ","Bearing :  DE 6309 2Z C3,  NDE 6209 2Z C3",SET,1,DV-KBE2-WT-001-GCR-19
+,34,10GCR16AP001M01,Waste Water Transfer Pump C,GCR,Outside Water Treatment Plant,0.00MEL,SIEMENS, 1808/800017807164/002," 0CV3163A
+","15kW, 400V, 50Hz, 26.5A, 2930RPM, cosɸ 0.89, EFF. 91.9%, EFF. Cl. IE3, Th. Cl. 155(F), IMV1, IP55, 160M, 114kg, ","Bearing :  DE 6309 2Z C3,  NDE 6209 2Z C3",SET,1,DV-KBE2-WT-001-GCR-19
+,35,10GCR17AP001M01,Waste Water Transfer Pump D,GCR,Outside Water Treatment Plant,0.00MEL,SIEMENS,1808/800017807164/001, 0CV3163A,"15kW, 400V, 50Hz, 26.5A, 2930RPM, cosɸ 0.89, EFF. 91.9%, EFF. Cl. IE3, Th. Cl. 155(F), IMV1, IP55, 160M, 114kg, ","Bearing :  DE 6309 2Z C3,  NDE 6209 2Z C3",SET,1,DV-KBE2-WT-001-GCR-19
+,36,10GCN12AP001M01,Acid Unloading Pump and ALKALI unloading pump control panel (ACID Unloading pump),GCN,Outside Water Treatment Plant,0.00MEL,ABB, 3G1C18420678965003,"M2BAX100LKA2
+","3kW, 400V Y, 50Hz,  5.46A, cosɸ 0.91, IMB35, Ins. Cl. F ,  IP55, IE3, 47kg, ","Bearing :  DE 6206 2Z C3,  NDE 6205 2Z C3",SET,1,DV-KBE2-WT-001-GCR-19
+,37,10GCN12AP002M01,Acid Unloading Pump and ALKALI unloading pump control panel (ALKALI Unloading pump),GCN,Outside Water Treatment Plant,0.00MEL,ABB, 3G1C18420678965002," M2BAX100LKA2
+","3kW, 400V Y, 50Hz,  5.46A, cosɸ 0.91, IMB35, Ins. Cl. F ,  IP55, IE3, 47kg, ","Bearing :  DE 6206 2Z C3,  NDE 6205 2Z C3",SET,1,writing the Data sheet of motor
+,38,10GCN28AP001M01,ACID metering pump for RO control cabinet (ACID Metering pump for RO A),GCN, Water Treatment Plant Dosing Room,0.00MEL,ABB, 3G1C18350672978017," QABP71M4AQBP6072301-CAAX
+","400V Y, 5-50Hz (1.59Nm/1385RPM), 50-100Hz (0.25kW/135-2840RPM), 0.93A, cosɸ 0.625, Ins. Cl. F ,  IP55, S1, 13kg, ","Motor Fan (Ventilator) : Type G-71A MT, 0.035kW, 3Ph, 400V, 50Hz, 0.22A, IP55, Ins. Cl. F, 42 Pa, 2800RPM,  No. 18085001
+Bearing :  DE 6202 VV C3,  NDE 6202 VV C3",SET,1,DV-KBE2-WT-001-GCQ-18
+,39,10GCN28AP002M01,ACID metering pump for RO control cabinet (ACID Metering pump for RO B),GCN, Water Treatment Plant Dosing Room,0.00MEL,ABB,3G1C18350672978007," QABP71M4AQBP6072301-CAAX
+","400V Y, 5-50Hz (1.59Nm/1385RPM), 50-100Hz (0.25kW/135-2840RPM), 0.93A, cosɸ 0.625, Ins. Cl. F ,  IP55, S1, 13kg, ","Motor Fan (Ventilator) : Type G-71A MT, 0.035kW, 3Ph, 400V, 50Hz, 0.22A, IP55, Ins. Cl. F, 42 Pa, 2800RPM,  No. 18084994
+Bearing :  DE 6202 VV C3,  NDE 6202 VV C3",SET,1,DV-KBE2-WT-001-GCQ-18
+,40,10GCN28AP003M01,ACID metering pump for RO control cabinet (ACID metering pump for concentrated water RO  A),GCN, Water Treatment Plant Dosing Room,0.00MEL,ABB, 3G1C18350672978018," QABP71M4AQBP6072301-CAAX
+","400V Y, 5-50Hz (1.59Nm/1385RPM), 50-100Hz (0.25kW/135-2840RPM), 0.93A, cosɸ 0.625, Ins. Cl. F ,  IP55, S1, 13kg, ","Motor Fan (Ventilator) : Type G-71A MT, 0.035kW, 3Ph, 400V, 50Hz, 0.22A, IP55, Ins. Cl. F, 42 Pa, 2800RPM,  No. 18084989
+Bearing :  DE 6202 VV C3,  NDE 6202 VV C3",SET,1,DV-KBE2-WT-001-GCQ-18
+,41,10GCN28AP004M01,ACID metering pump for RO control cabinet (ACID metering pump for concentrated water RO B),GCN, Water Treatment Plant Dosing Room,0.00MEL,ABB,3G1C18350672978011," QABP71M4AQBP6072301-CAAX
+","400V Y, 5-50Hz (1.59Nm/1385RPM), 50-100Hz (0.25kW/135-2840RPM), 0.93A, cosɸ 0.625, Ins. Cl. F ,  IP55, S1, 13kg, ","Motor Fan (Ventilator) : Type G-71A MT, 0.035kW, 3Ph, 400V, 50Hz, 0.22A, IP55, Ins. Cl. F, 42 Pa, 2800RPM,  No. 18084999
+Bearing :  DE 6202 VV C3,  NDE 6202 VV C3",SET,1,DV-KBE2-WT-001-GCQ-18
+,42,10GCN28AP005M01,ACID and ALKALI  metering pump for UF backwash control cabinet (ACID Metering pump for UF  Backwash A),GCN, Water Treatment Plant Dosing Room,0.00MEL,ABB, 3G1C18350672981003," QABP80M4BQBP6082302-CAAX
+","400V Y, 5-50Hz (4.76Nm/1410RPM), 50-100Hz (0.75kW/135-2840RPM), 2.11A, cosɸ 0.7, Ins. Cl. F ,  IP55, S1, 20kg, ","Motor Fan (Ventilator) : Type G-80A, 0.06kW, 400V, 50Hz, 0.24A, IP55, Ins. Cl. F, 350 m3/h, 60 Pa, 2800RPM,  No. 67564 DY
+Bearing :  DE 6204 DDU C3,  NDE 6204 DDU C3",SET,1,DV-KBE2-WT-001-GCQ-18
+,43,10GCN28AP006M01,ACID and ALKALI  metering pump for UF backwash control cabinet (ACID Metering pump for UF  Backwash B),GCN, Water Treatment Plant Dosing Room,0.00MEL,ABB, 3G1C18350672981002,"QABP80M4BQBP6082302-CAAX
+","400V Y, 5-50Hz (4.76Nm/1410RPM), 50-100Hz (0.75kW/135-2840RPM), 2.11A, cosɸ 0.7, Ins. Cl. F ,  IP55, S1, 20kg, ","Motor Fan (Ventilator) : Type G-80A, 0.06kW, 380V, 50Hz, 0.24A, IP55, Ins. Cl. F, 350 m3/h, 60 Pa, 2800RPM,  No. 18073056 QT
+Bearing :  DE 6204 DDU C3,  NDE 6204 DDU C3",SET,1,DV-KBE2-WT-001-GCQ-18
+,44,10GCN28AP007M01,ACID and ALKALI  metering pump for UF backwash control cabinet (ALKALI Metering pump forUF Backwash),GCN, Water Treatment Plant Dosing Room,0.00MEL,ABB,3G1C18350672981005," QABP80M4BQBP6082302-CAAX
+","400V Y, 5-50Hz (4.76Nm/1410RPM), 50-100Hz (0.75kW/135-2840RPM), 2.11A, cosɸ 0.7, Ins. Cl. F ,  IP55, S1, 20kg, ","Motor Fan (Ventilator) : Type G-80A, 0.06kW, 400V, 50Hz, 0.24A, IP55, Ins. Cl. F, 350 m3/h, 60 Pa, 2800RPM,  No. 67560 DY
+Bearing :  DE 6204 DDU C3,  NDE 6204 DDU C3",SET,1,DV-KBE2-WT-001-GCQ-18
+,45,10GCN28AP008M01,ACID and ALKALI  metering pump for UF backwash control cabinet (ALKALI Metering pump forUF Backwash),GCN, Water Treatment Plant Dosing Room,0.00MEL,ABB,3G1C18350672981006, QABP80M4BQBP6082302-CAAX,"400V Y, 5-50Hz (4.76Nm/1410RPM), 50-100Hz (0.75kW/135-2840RPM), 2.11A, cosɸ 0.7, Ins. Cl. F ,  IP55, S1, 20kg, ","Motor Fan (Ventilator) : Type G-80A, 0.06kW, 400V, 50Hz, 0.24A, IP55, Ins. Cl. F, 350 m3/h, 60 Pa, 2800RPM,  No. 67563 DY
+Bearing :  DE 6204 DDU C3,  NDE 6204 DDU C3",SET,1,DV-KBE2-WT-001-GCQ-18
+,46,10GBQ13AM001M01,Raw Water and UF Backwash NaClO Dosing Skid Panel( Mixer for NaCLO Dosing Tank A) ,GBQ, Water Treatment Plant Dosing Room,0.00MEL,SIEMENS, 1809/800018134149/007," 0CV3094B
+","1.5kW, 230Δ/400Y V, 50Hz, 5.6/3.2A, 1440RPM, cosɸ 0.79, EFF. 85.3%, EFF. Cl. IE3, Th. Cl. 155(F), IMB5, IP55, 90L, 28kg, ","Bearing :  DE 6205 2Z C3,  NDE 6205 2Z C3",SET,1,DV-KBE2-WT-001-GBQ-05
+,47,10GBQ13AM002M01,Raw Water and UF Backwash NaClO Dosing Skid Panel( Mixer for NaCLO Dosing Tank B) ,GBQ, Water Treatment Plant Dosing Room,0.00MEL,SIEMENS, 1809/800018134149/011," 0CV3094B
+","1.5kW, 230Δ/400Y V, 50Hz, 5.6/3.2A, 1440RPM, cosɸ 0.79, EFF. 85.3%, EFF. Cl. IE3, Th. Cl. 155(F), IMB5, IP55, 90L, 28kg, ","Bearing :  DE 6205 2Z C3,  NDE 6205 2Z C3",SET,1,DV-KBE2-WT-001-GBQ-05
+,48,10GBQ13AP003M01,Raw Water and UF Backwash NaClO Dosing Skid Panel ( RAW WATER NaCLO METERING PUMP A),GBQ, Water Treatment Plant Dosing Room,0.00MEL,ABB, 3G1C18350672978002," QABP71M4AQBP6072301-CAAX
+","400V Y, 5-50Hz (1.59Nm/1385RPM), 50-100Hz (0.25kW/135-2840RPM), 0.93A, cosɸ 0.625, Ins. Cl. F ,  IP55, S1, 13kg, ","Motor Fan (Ventilator) : Type G-71A MT, 0.035kW, 3Ph, 400V, 50Hz, 0.22A, IP55, Ins. Cl. F, 42 Pa, 2800RPM,  No. 18084992
+Bearing :  DE 6202 VV C3,  NDE 6202 VV C3",SET,1,DV-KBE2-WT-001-GBQ-05
+,49,10GBQ13AP004M01,Raw Water and UF Backwash NaClO Dosing Skid Panel ( RAW WATER NaCLO METERING PUMP B),GBQ, Water Treatment Plant Dosing Room,0.00MEL,ABB, 3G1C18350672978006," QABP71M4AQBP6072301-CAAX
+","400V Y, 5-50Hz (1.59Nm/1385RPM), 50-100Hz (0.25kW/135-2840RPM), 0.93A, cosɸ 0.625, Ins. Cl. F ,  IP55, S1, 13kg, BRG DE 6202 VV C3, BRG NDE 6202 VV C3","Motor Fan (Ventilator) : Type G-71A MT, 0.035kW, 3Ph, 400V, 50Hz, 0.22A, IP55, Ins. Cl. F, 42 Pa, 2800RPM,  No. 18085003
+Bearing :  DE 6202 VV C3,  NDE 6202 VV C3",SET,1,DV-KBE2-WT-001-GBQ-05
+,50,10GBQ13AP001M01,Raw Water and UF Backwash NaClO Dosing Skid Panel (UF BACKWASH NACLO METERING PUMP A),GBQ, Water Treatment Plant Dosing Room,0.00MEL,ABB, 3G1C18350672981001," QABP80M4BQBP6082302-CAAX
+","400V Y, 5-50Hz (4.76Nm/1410RPM), 50-100Hz (0.75kW/135-2840RPM), 2.11A, cosɸ 0.7, Ins. Cl. F ,  IP55, S1, 20kg, ","Motor Fan (Ventilator) : Type G-80A, 0.06kW, 400V, 50Hz, 0.24A, IP55 Ins. Cl. F, 350 m3/h, 60 Pa, 2800RPM,  No. 67559 DY
+Bearing :  DE 6204 DDU C3,  NDE 6204 DDU C3",SET,1,DV-KBE2-WT-001-GBQ-05
+,51,10GBQ13AP002M01,Raw Water and UF Backwash NaClO Dosing Skid Panel (UF BACKWASH NACLO METERING PUMP B),GBQ, Water Treatment Plant Dosing Room,0.00MEL,ABB,3G1C18350672981004,"QABP80M4BQBP6082302-CAAX
+","400V Y, 5-50Hz (4.76Nm/1410RPM), 50-100Hz (0.75kW/135-2840RPM), 2.11A, cosɸ 0.7, Ins. Cl. F ,  IP55, S1, 20kg, ","Motor Fan (Ventilator) : Type G-80A, 0.06kW, 400V, 50Hz, 0.24A, IP55 Ins. Cl. F, 350 m3/h, 60 Pa, 2800RPM,  No. 67561 DY
+Bearing :  DE 6204 DDU C3,  NDE 6204 DDU C3",SET,1,DV-KBE2-WT-001-GBQ-05
+,52,10GBQ11AM001M01,RAW water coagulant dosing skid control cabinet (Mixer for Coagulant Dosing tank A),GBQ, Water Treatment Plant Dosing Room,0.00MEL,SIEMENS, 1809/800018134149/010," 0CV3094B
+","1.5kW, 230Δ/400Y V, 50Hz, 5.6/3.2A, 1440RPM, cosɸ 0.79, EFF. 85.3%, EFF. Cl. IE3, Th. Cl. 155(F), IMB5, IP55, 90L, 28kg, ","Bearing :  DE 6205 2Z C3,  NDE 6205 2Z C3",SET,1,DV-KBE2-WT-001-GBQ-05
+,53,10GBQ11AM002M01,RAW water coagulant dosing skid control cabinet (Mixer for Coagulant Dosing tank B),GBQ, Water Treatment Plant Dosing Room,0.00MEL,SIEMENS, 1809/800018134149/004,"0CV3094B
+","1.5kW, 230Δ/400Y V, 50Hz, 5.6/3.2A, 1440RPM, cosɸ 0.79, EFF. 85.3%, EFF. Cl. IE3, Th. Cl. 155(F), IMB5, IP55, 90L, 28kg, ","Bearing :  DE 6205 2Z C3,  NDE 6205 2Z C3",SET,1,DV-KBE2-WT-001-GBQ-05
+,54,10GBQ11AP001M01,RAW water coagulant dosing skid control cabinet (Coagulant Metering pump A),GBQ, Water Treatment Plant Dosing Room,0.00MEL,ABB,3G1C18350672978003,"QABP71M4AQBP6072301-CAAX
+","400V Y, 5-50Hz (1.59Nm/1385RPM), 50-100Hz (0.25kW/135-2840RPM), 0.93A, cosɸ 0.625, Ins. Cl. F, IP55, S1, 13kg, ","Motor Fan (Ventilator) : Type G-71A MT, 0.035kW, 3Ph, 400V, 50Hz, 0.22A, IP55, Ins. Cl. F, 42 Pa, 2800RPM,  No. 18084987
+Bearing :  DE 6202 VV C3,  NDE 6202 VV C3",SET,1,DV-KBE2-WT-001-GBQ-05
+,55,10GBQ11AP002M01,RAW water coagulant dosing skid control cabinet (Coagulant Metering pump B),GBQ, Water Treatment Plant Dosing Room,0.00MEL,ABB, 3G1C18350672978014,"QABP71M4AQBP6072301-CAAX
+","400V Y, 5-50Hz (1.59Nm/1385RPM), 50-100Hz (0.25kW/135-2840RPM), 0.93A, cosɸ 0.625, Ins. Cl. F, IP55, S1, 13kg, ","Motor Fan (Ventilator) : Type G-71A MT, 0.035kW, 3Ph, 400V, 50Hz, 0.22A, IP55, Ins. Cl. F, 42 Pa, 2800RPM,  No. 18084986
+Bearing :  DE 6202 VV C3,  NDE 6202 VV C3",SET,1,DV-KBE2-WT-001-GBQ-05
+,56,10GCQ13AM001M01,RO scale inhibitor dosing skid control panel cabinet (mixer for RO Antiscalant Dosing tank A),GCQ, Water Treatment Plant Dosing Room,0.00MEL,SIEMENS, 1809/800018134149/002,"0CV3094B
+","1.5kW, 230Δ/400Y V, 50Hz, 5.6/3.2A, 1440RPM, cosɸ 0.79, EFF. 85.3%, EFF. Cl. IE3, Th. Cl. 155(F), IMB5, IP55, 90L, 28kg, ","Bearing :  DE 6205 2Z C3,  NDE 6205 2Z C3",SET,1,DV-KBE2-WT-001-GCQ-18
+,57,10GCQ13AM002M01,RO scale inhibitor dosing skid control panel cabinet (mixer for RO Antiscalant Dosing tank B),GCQ, Water Treatment Plant Dosing Room,0.00MEL,SIEMENS,1809/800018134149/001," 0CV3094B
+","1.5kW, 230Δ/400Y V, 50Hz, 5.6/3.2A, 1440RPM, cosɸ 0.79, EFF. 85.3%, EFF. Cl. IE3, Th. Cl. 155(F), IMB5, IP55, 90L, 28kg, ","Bearing :  DE 6205 2Z C3,  NDE 6205 2Z C3",SET,1,DV-KBE2-WT-001-GCQ-18
+,58,10GCQ13AP003M01,RO scale inhibitor dosing skid control panel cabinet (metering pump for RO A),GCQ, Water Treatment Plant Dosing Room,0.00MEL,ABB, 3G1C18350672978013," QABP71M4AQBP6072301-CAAX
+","400V Y, 5-50Hz (1.59Nm/1385RPM), 50-100Hz (0.25kW/135-2840RPM), 0.93A, cosɸ 0.625, Ins. Cl. F, IP55, S1, 13kg, ","Motor Fan (Ventilator) : Type G-71A MT, 0.035kW, 3Ph, 400V, 50Hz, 0.22A, IP55, Ins. Cl. F, 42 Pa, 2800RPM,  No. 18084993
+Bearing :  DE 6202 VV C3,  NDE 6202 VV C3",SET,1,DV-KBE2-WT-001-GCQ-18
+,59,10GCQ13AP004M01,RO scale inhibitor dosing skid control panel cabinet (metering pump for RO B),GCQ, Water Treatment Plant Dosing Room,0.00MEL,ABB,3G1C18350672978016," QABP71M4AQBP6072301-CAAX
+","400V Y, 5-50Hz (1.59Nm/1385RPM), 50-100Hz (0.25kW/135-2840RPM), 0.93A, cosɸ 0.625, Ins. Cl. F, IP55, S1, 13kg, ","Motor Fan (Ventilator) : Type G-71A MT, 0.035kW, 3Ph, 400V, 50Hz, 0.22A, IP55, Ins. Cl. F, 42 Pa, 2800RPM,  No. 18084996
+Bearing :  DE 6202 VV C3,  NDE 6202 VV C3",SET,1,DV-KBE2-WT-001-GCQ-18
+,60,10GCQ13AP001M01,RO scale inhibitor dosing skid control panel cabinet (Metering pump for concentrated water RO A),GCQ, Water Treatment Plant Dosing Room,0.00MEL,ABB,3G1C18350672978004," QABP71M4AQBP6072301-CAAX
+","400V Y, 5-50Hz (1.59Nm/1385RPM), 50-100Hz (0.25kW/135-2840RPM), 0.93A, cosɸ 0.625, Ins. Cl. F, IP55, S1, 13kg, ","Motor Fan (Ventilator) : Type G-71A MT, 0.035kW, 3Ph, 400V, 50Hz, 0.22A, IP55, Ins. Cl. F, 42 Pa, 2800RPM,  No. 18084988
+Bearing :  DE 6202 VV C3,  NDE 6202 VV C3",SET,1,DV-KBE2-WT-001-GCQ-18
+,61,10GCQ13AP002M01,RO scale inhibitor dosing skid control panel cabinet (Metering pump for concentrated water RO B),GCQ, Water Treatment Plant Dosing Room,0.00MEL,ABB, 3G1C18350672978010,"QABP71M4AQBP6072301-CAAX
+","400V Y, 5-50Hz (1.59Nm/1385RPM), 50-100Hz (0.25kW/135-2840RPM), 0.93A, cosɸ 0.625, Ins. Cl. F, IP55, S1, 13kg, ","Motor Fan (Ventilator) : Type G-71A MT, 0.035kW, 3Ph, 400V, 50Hz, 0.22A, IP55, Ins. Cl. F, 42 Pa, 2800RPM,  No. 18084995
+Bearing :  DE 6202 VV C3,  NDE 6202 VV C3",SET,1,DV-KBE2-WT-001-GCQ-18
+,62,10GCQ11AM001M01,RO Dechlorination dosing skid control cabinet (Mixer for RO Reductant Dosing tank A),GCQ, Water Treatment Plant Dosing Room,0.00MEL,SIEMENS, 1809/800018134149/008,"0CV3094B
+","1.5kW, 230Δ/400Y V, 50Hz, 5.6/3.2A, 1440RPM, cosɸ 0.79, EFF. 85.3%, EFF. Cl. IE3, Th. Cl. 155(F), IMB5, IP55, 90L, 28kg, ","Bearing :  DE 6205 2Z C3,  NDE 6205 2Z C3",SET,1,DV-KBE2-WT-001-GCQ-18
+,63,10GCQ11AM002M01,RO Dechlorination dosing skid control cabinet (Mixer for RO Reductant Dosing tank B),GCQ, Water Treatment Plant Dosing Room,0.00MEL,SIEMENS,1809/800018134149/005, 0CV3094B,"1.5kW, 230Δ/400Y V, 50Hz, 5.6/3.2A, 1440RPM, cosɸ 0.79, EFF. 85.3%, EFF. Cl. IE3, Th. Cl. 155(F), IMB5, IP55, 90L, 28kg, ","Bearing :  DE 6205 2Z C3,  NDE 6205 2Z C3",SET,1,DV-KBE2-WT-001-GCQ-18
+,64,10GCQ11AP001M01,RO Dechlorination dosing skid control cabinet (Metering pump A),GCQ, Water Treatment Plant Dosing Room,0.00MEL,ABB, 3G1C18350672978015," QABP71M4AQBP6072301-CAAX
+","400V Y, 5-50Hz (1.59Nm/1385RPM), 50-100Hz (0.25kW/135-2840RPM), 0.93A, cosɸ 0.625, Ins. Cl. F ,  IP55, S1, 13kg, ","Motor Fan (Ventilator) : Type G-71A MT, 0.035kW, 3Ph, 400V, 50Hz, 0.22A, IP55, Ins. Cl. F, 42 Pa, 2800RPM,  No. 18084990
+Bearing :  DE 6202 VV C3,  NDE 6202 VV C3",SET,1,DV-KBE2-WT-001-GCQ-18
+,65,10GCQ11AP002M01,RO Dechlorination dosing skid control cabinet (Metering pump B),GCQ, Water Treatment Plant Dosing Room,0.00MEL,ABB, 3G1C18350672978008,"QABP71M4AQBP6072301-CAAX
+","400V Y, 5-50Hz (1.59Nm/1385RPM), 50-100Hz (0.25kW/135-2840RPM), 0.93A, cosɸ 0.625, Ins. Cl. F ,  IP55, S1, 13kg, ","Motor Fan (Ventilator) : Type G-71A MT, 0.035kW, 3Ph, 400V, 50Hz, 0.22A, IP55, Ins. Cl. F, 42 Pa, 2800RPM,  No. 18084990
+Bearing :  DE 6202 VV C3,  NDE 6202 VV C3",SET,1,DV-KBE2-WT-001-GCQ-18
+,66,10GKA26AM001M01,Non-Potable Water Alkali Dosing Skid Panel (Mixer for Non0Potable Water Caustic Solution Tank A),GKA, Water Treatment Plant Dosing Room,0.00MEL,SIEMENS,1809/800018134149/003,"0CV3094B
+","1.5kW, 230Δ/400Y V, 50Hz, 5.6/3.2A, 1440RPM, cosɸ 0.79, EFF. 85.3%, EFF. Cl. IE3, Th. Cl. 155(F), IMB5, IP55, 90L, 28kg, ","Bearing :  DE 6205 2Z C3,  NDE 6205 2Z C3",SET,1,DV-KBE2-WT-001-GKA-23
+,67,10GKA26AM002M01,Non-Potable Water Alkali Dosing Skid Panel (Mixer for Non0Potable Water Caustic Solution Tank B),GKA, Water Treatment Plant Dosing Room,0.00MEL,SIEMENS,1809/800018134149/009," 0CV3094B
+","1.5kW, 230Δ/400Y V, 50Hz, 5.6/3.2A, 1440RPM, cosɸ 0.79, EFF. 85.3%, EFF. Cl. IE3, Th. Cl. 155(F), IMB5, IP55, 90L, 28kg, ","Bearing :  DE 6205 2Z C3,  NDE 6205 2Z C3",SET,1,DV-KBE2-WT-001-GKA-23
+,68,10GKA26AP001M01,Non-Potable Water Alkali Dosing Skid Panel ( METERING PUMP A),GKA, Water Treatment Plant Dosing Room,0.00MEL,ABB, 3G1C18350672978005," QABP71M4AQBP6072301-CAAX
+","400V Y, 5-50Hz (1.59Nm/1385RPM), 50-100Hz (0.25kW/135-2840RPM), 0.93A, cosɸ 0.625, Ins. Cl. F ,  IP55, S1, 13kg, ","Motor Fan (Ventilator) : Type G-71A MT, 0.035kW, 3Ph, 400V, 50Hz, 0.22A, IP55, Ins. Cl. F, 42 Pa, 2800RPM,  No. 18084991
+Bearing :  DE 6202 VV C3,  NDE 6202 VV C3",SET,1,DV-KBE2-WT-001-GKA-23
+,69,10GKA26GAP002M01,Non-Potable Water Alkali Dosing Skid Panel ( METERING PUMP B),GKA, Water Treatment Plant Dosing Room,0.00MEL,ABB, 3G1C18350672978012," QABP71M4A
+QBP6072301-CAAX
+","400V Y, 5-50Hz (1.59Nm/1385RPM), 50-100Hz (0.25kW/135-2840RPM), 0.93A, cosɸ 0.625, Ins. Cl. F ,  IP55, S1, 13kg, ","Motor Fan (Ventilator) : Type G-71A MT, 0.035kW, 3Ph, 400V, 50Hz, 0.22A, IP55, Ins. Cl. F, 42 Pa, 2800RPM,  No. 18084998
+Bearing :  DE 6202 VV C3,  NDE 6202 VV C3",SET,1,DV-KBE2-WT-001-GKA-23
+,70,10GKA13AM001M01,Non -potable water NACLO Dosing Skid  (Mixer for Non-Potable Water NaCLO Solution tank A),GKA, Water Treatment Plant Dosing Room,0.00MEL,SIEMENS,1809/800018134149/012," 0CV3094B
+","1.5kW, 230Δ/400Y V, 50Hz, 5.6/3.2A, 1440RPM, cosɸ 0.79, EFF. 85.3%, EFF. Cl. IE3, Th. Cl. 155(F), IMB5, IP55, 90L, 28kg, ","Bearing :  DE 6205 2Z C3,  NDE 6205 2Z C3",SET,1,DV-KBE2-WT-001-GKA-23
+,71,10GKA13AM002M01,Non -potable water NACLO Dosing Skid  (Mixer for Non-Potable Water NaCLO Solution tank B),GKA, Water Treatment Plant Dosing Room,0.00MEL,SIEMENS, 1809/800018134149/006," 0CV3094B
+","1.5kW, 230Δ/400Y V, 50Hz, 5.6/3.2A, 1440RPM, cosɸ 0.79, EFF. 85.3%, EFF. Cl. IE3, Th. Cl. 155(F), IMB5, IP55, 90L, 28kg, ","Bearing :  DE 6205 2Z C3,  NDE 6205 2Z C3",SET,1,DV-KBE2-WT-001-GKA-23
+,72,10GKA13AP001M01,Non -potable water NACLO Dosing Skid  (Metering pump A),GKA, Water Treatment Plant Dosing Room,0.00MEL,ABB, 3G1C18350672978001," QABP71M4AQBP6072301-CAAX
+","400V Y, 5-50Hz (1.59Nm/1385RPM), 50-100Hz (0.25kW/135-2840RPM), 0.93A, cosɸ 0.625, Ins. Cl. F ,  IP55, S1, 13kg, ","Motor Fan (Ventilator) : Type G-71A MT, 0.035kW, 3Ph, 400V, 50Hz, 0.22A, IP55, Ins. Cl. F, 42 Pa, 2800RPM,  No. 18084997
+Bearing :  DE 6202 VV C3,  NDE 6202 VV C3",SET,1,DV-KBE2-WT-001-GKA-23
+,73,10GKA13AP001M01,Non -potable water NACLO Dosing Skid  (Metering pump B),GKA, Water Treatment Plant Dosing Room,0.00MEL,ABB, 3G1C18350672978009," QABP71M4A
+QBP6072301-CAAX
+","400V Y, 5-50Hz (1.59Nm/1385RPM), 50-100Hz (0.25kW/135-2840RPM), 0.93A, cosɸ 0.625, Ins. Cl. F ,  IP55, S1, 13kg, ","Motor Fan (Ventilator) : Type G-71A MT, 0.035kW, 3Ph, 400V, 50Hz, 0.22A, IP55, Ins. Cl. F, 42 Pa, 2800RPM,  No. 18085002
+Bearing :  DE 6202 VV C3,  NDE 6202 VV C3",SET,1,DV-KBE2-WT-001-GKA-23
+,74,10GBB24AN001M01,Roots Blower A,GBB, Water Treatment Plant,0.00MEL,SIEMENS, 1806/800017441287/002,"1LE0001-1EB20-4AA5-Z
+","18.5kW, 400V, 50Hz, 34.5A, 1465RPM, cosɸ 0.85, EFF. 91.2%, EFF. Cl. IE3, Th. Cl. 155(F), IMB3, IP55, 180M, ","Bearing :  DE 6210 Z C3,  NDE 6210 2Z C3",SET,1,DV-KBE2-WT-001-GBB-02
+,75,10GBB25AN001M01,Roots Blower B,GBB, Water Treatment Plant,0.00MEL,SIEMENS,1806/800017441287/001," 1LE0001-1EB20-4AA5-Z
+","18.5kW, 400V, 50Hz, 34.5A, 1465RPM, cosɸ 0.85, EFF. 91.2%, EFF. Cl. IE3, Th. Cl. 155(F), IMB3, IP55, 180M, ","Bearing :  DE 6210 Z C3,  NDE 6210 2Z C3",SET,1,DV-KBE2-WT-001-GBB-02
+,76,10GKB01AP001M01,Non Potable water pump A Motor,GKB, Water Treatment Plant,0.00MEL,SIEMENS,"
+1812/800018700137/001","1LE0001-1EA253-4AA5-Z200L
+","37kW, 400V, 50Hz, 66A,2955 RPM, cosɸ 0.88, EFF. 92.5%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 260kg, ","Bearing :  DE 6212 Z C3,  NDE 6212 Z C3",SET,1,APCOD-1-DW-WW-GKB-302-001-S001
+,77,10GKB02AP001M01,Non Potable water pump B Motor,GKB, Water Treatment Plant,0.00MEL,SIEMENS,"
+1812/800018700137/002","1LE0001-1EA253-4AA5-Z200L
+","37kW, 400V, 50Hz, 66A,2955 RPM, cosɸ 0.88, EFF. 92.5%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 260kg, ","Bearing :  DE 6212 Z C3,  NDE 6212 Z C3",SET,1,APCOD-1-DW-WW-GKB-302-001-S001
+,78,10GHD01AP001M01,Road Dedusting pump A,GHD, Water Treatment Plant,0.00MEL,SIEMENS,"
+1902/800019097023/001","1LE0001-2CA23-4AA5-Z250M
+","55kW, 400V, 50Hz, 97A, 2970RPM, cosɸ 0.88, EFF. 93.2%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 334kg, ","Bearing :  DE 6215 C3,  NDE 6215 C3",SET,1,APCOD-1-DW-WW-GMA-302-001-S001 TO S003
+,79,10GHD02AP001M01,Road Dedusting pump B,GHD, Water Treatment Plant,0.00MEL,SIEMENS,"
+1902/800019097023/002","1LE0001-2CA23-4AA5-Z250M
+","55kW, 400V, 50Hz, 97A, 2970RPM, cosɸ 0.88, EFF. 93.2%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 334kg, ","Bearing :  DE 6215 C3,  NDE 6215 C3",SET,1,APCOD-1-DW-WW-GMA-302-001-S001 TO S003
+,80,10GHD11AP001M01,Low Quality RAW water circulation Pump A,GHD, Water Treatment Plant,0.00MEL,,,,18.5 KW,We didn’t Find,SET,1,writing the Data sheet of motor
+,81,10GHD12AP001M01,Low Quality RAW water circulation Pump B,GHD, Water Treatment Plant,0.00MEL,,,,18.5 KW,We didn’t Find,SET,1,writing the Data sheet of motor
+,82,10GHD07AP001M01,Flushing pump A,GHD, Water Treatment Plant,0.00MEL,,,,90 KW,We didn’t Find,SET,1,APCOD-1-DW-WW-GMA-302-001-S001 TO S003
+,83,10GHD08AP001M01,Flushing pump B,GHD, Water Treatment Plant,0.00MEL,,,,90 KW,We didn’t Find,SET,1,APCOD-1-DW-WW-GMA-302-001-S001 TO S003
+,84,10GHD09AP001M01,Flushing pump C,GHD, Water Treatment Plant,0.00MEL,SIEMENS,1812/800018707025/002,LE0001-2DA2-3-4AA5-Z,400V-D-50HZ-90KW-159A-IP55-EFF94.1%-IMB3-RPM2978-PF0.87,6319C3DE-6319NDE,SET,1,APCOD-1-DW-WW-GMA-302-001-S001 TO S003
+,85,10GHD05AP001M01,FLY & Bottom ASH cooling pump A,GHD, Water Treatment Plant,0.00MEL,SIEMENS,1812/800018658390/003,LE0001-3AA2-3-4AJ5,400V-D-50HZ-132KW-220A-IP55-EFF94.6%-IMB3-RPM2982-PF0.91,6317C3DE-6317NDE,SET,1,APCOD-1-DW-WW-GMA-302-001-S001 TO S003
+,86,10GHD06AP001M01,FLY & Bottom ASH cooling pump B,GHD, Water Treatment Plant,0.00MEL,SIEMENS,1812/800018658390/001,LE0001-3AA2-3-4AJ5,400V-D-50HZ-132KW-220A-IP55-EFF94.6%-IMB3-RPM2982-PF0.91,6319C3DE-6319NDE,SET,1,APCOD-1-DW-WW-GMA-302-001-S001 TO S003
+,87,10GHD10AP001M01,FLY & Bottom ASH cooling pump C,GHD, Water Treatment Plant,0.00MEL,SIEMENS,1812/800018658390/002,LE0001-3AA2-3-4AJ5,400V-D-50HZ-132KW-220A-IP55-EFF94.6%-IMB3-RPM2982-PF0.91,6319C3DE-6319NDE,SET,1,APCOD-1-DW-WW-GMA-302-001-S001 TO S003
+,88,10GHD03AP001M01,Ash Dump Dedusting pump A,GHD, Water Treatment Plant,0.00MEL,SIEMENS,"
+1812/800018700133/001","1LE0001-1EA233-4AA5-Z180M
+","22kW, 400V, 50Hz, 42A,2935 RPM, cosɸ 0.87, EFF. 91.8%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 152kg, ","Bearing :  DE 6310 C3,  NDE 6210 C3",SET,1,APCOD-1-DW-WW-GMA-302-001-S001 TO S003
+,89,10GHD04AP001M01,Ash Dump Dedusting pump B,GHD, Water Treatment Plant,0.00MEL,SIEMENS,"
+1812/800018700133/002","1LE0001-1EA233-4AA5-Z180M
+","22kW, 400V, 50Hz, 42A,2935 RPM, cosɸ 0.87, EFF. 91.8%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 152kg, ","Bearing :  DE 6310 C3,  NDE 6210 C3",SET,1,APCOD-1-DW-WW-GMA-302-001-S001 TO S003
+,90,10SAG01AH005M01,Package fresh air handling unit ,SAG, Water Treatment Plant,0.00MEL,,,,30+10 KW,No Access,SET,1,writing the Data sheet of motor
+,91,10SAG01AH002M01,Air handling unit B,SAG, Water Treatment Plant,0.00MEL,,,,45 KW,No Access,SET,1,writing the Data sheet of motor
+,92,10SAG01AN002M01,Roof Exhaust fan,SAG, Water Treatment Plant,0.00MEL,,,,0.18 KW,No Access,SET,1,writing the Data sheet of motor
+,93,10SAG01AN021M01,Roof exhaust fan,SAG, Water Treatment Plant,0.00MEL,,,,0.19 KW,No Access,SET,1,writing the Data sheet of motor
+,94,10SAG01AN001M01,Exhaust Fan,SAG, Water Treatment Plant,0.00MEL,,,,1.5 KW,No Access,SET,1,writing the Data sheet of motor
+,95,10GAF01AP001M01,Well Water Pump for A1 Well Motor,GAF,Well Water  A1 ,0.00MEL,FRANKLIN,,Z875 12-L8W,"75kW, 400V, 50Hz, 52A, 2910RPM, cosɸ 0.87,  Th. Cl. (Y),, IP55, SF 1.15, , 235 k gkg, ",N/A,SET,1,APCOD-1-DW-WW-GAF-302-001-S001
+,96,10GAF10AP001M01,Well Water Pump for A2 Well Motor,GAF,Well Water  A2 ,0.00MEL,FRANKLIN,,Z875 12-L8W,"75kW, 400V, 50Hz, 52A, 2910RPM, cosɸ 0.87,  Th. Cl. (Y),, IP55, SF 1.15, , 235 kg, ",N/A,SET,1,APCOD-1-DW-WW-GAF-302-002-S001
+,97,10GAF20AP001M01,Well Water Pump for A3 Well Motor,GAF,Well Water  A3 ,0.00MEL,FRANKLIN,,Z875 12-L8W,"75kW, 400V, 50Hz, 52A, 2910RPM, cosɸ 0.87,  Th. Cl. (Y),, IP55, SF 1.15, , 235 kg, ",N/A,SET,1,APCOD-1-DW-WW-GAF-302-003-S001
+,98,10GAF30AP001M01,Well Water Pump for K1 Well Motor,GAF,Well Water  K1 ,0.00MEL,FRANKLIN,,ZR10150 12-FR350,"350kW, 1000V, 50Hz, 270A, 2925RPM, cosɸ 0.87,  Th. Cl. (Y),, IP55, SF 1.15, , 235 kg, ",N/A,SET,1,APCOD-1-DW-WW-GAF-302-004-S001
+,99,10GAF40AP001M01,Well Water Pump for K2 Well Motor,GAF,Well Water  K2 ,0.00MEL,FRANKLIN,,ZR10150 12-FR350,"350kW, 1000V, 50Hz, 270A, 2925RPM, cosɸ 0.87,  Th. Cl. (Y),, IP55, SF 1.15, , 235 kg, ",N/A,SET,1,APCOD-1-DW-WW-GAF-302-005-S001
+,100,10GAF50AP001M01,Well Water Pump for K3 Well Motor,GAF,Well Water  K3 ,0.00MEL,FRANKLIN,,ZR10150 12-FR350,"350kW, 1000V, 50Hz, 270A, 2925RPM, cosɸ 0.87,  Th. Cl. (Y),, IP55, SF 1.15, , 235 kg, ",N/A,SET,1,APCOD-1-DW-WW-GAF-302-006-S001
+,101,10GAF60AP001M01,Well Water Pump for K4 Well Motor,GAF,Well Water  K4 ,0.00MEL,FRANKLIN,,ZR10150 12-FR350,"350kW, 1000V, 50Hz, 270A, 2925RPM, cosɸ 0.87,  Th. Cl. (Y),, IP55, SF 1.15, , 235 kg, ",N/A,SET,1,APCOD-1-DW-WW-GAF-302-007-S001
+,102,10GAF70AP001M01,Well Water Pump for K5 Well Motor,GAF,Well Water  K5 ,0.00MEL,FRANKLIN,,ZR10150 12-FR350,"350kW, 1000V, 50Hz, 270A, 2925RPM, cosɸ 0.87,  Th. Cl. (Y),, IP55, SF 1.15, , 235 kg, ",N/A,SET,1,APCOD-1-DW-WW-GAF-302-008-S001
+,103,10GAF80AP001M01,Well Water Pump for K6 Well Motor,GAF,Well Water  K6 ,0.00MEL,FRANKLIN,,ZR10150 12-FR350,"350kW, 1000V, 50Hz, 270A, 2925RPM, cosɸ 0.87,  Th. Cl. (Y),, IP55, SF 1.15, , 235 kg, ",N/A,SET,1,APCOD-1-DW-WW-GAF-302-009-S001
+,104,10GAF03AP001M01,Raw Water Pump For A1 Well (3) Motor,GAF,Well Water  A1 ,0.00MEL,SIEMENS,"
+1803/800016935969/006","1LE0001-1DA43-4AB4-Z160L
+","18.5kW, 400V, 50Hz, 33A, 2935RPM, cosɸ 0.89, EFF. 90.9%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15,  250kg, ","Bearing :  DE 6209 Z C3,  NDE 6209 Z C3",SET,1,APCOD-1-DW-WW-GAD-302-001-S001
+,105,10GAF02AP001M01,Raw Water Pump For A1 Well (2) Motor,GAF,Well Water  A1 ,0.00MEL,SIEMENS,"
+1803/800016935969/002","1LE0001-1DA43-4AB4-Z160L
+","18.5kW, 400V, 50Hz, 33A, 2935RPM, cosɸ 0.89, EFF. 90.9%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15,  125kg, ","Bearing :  DE 6209 Z C3,  NDE 6209 Z C3",SET,1,APCOD-1-DW-WW-GAD-302-001-S001
+,106,10GAF13AP001M01,Raw Water Pump For A2 Well (3) Motor,GAF,Well Water  A2 ,0.00MEL,SIEMENS,"
+1803/800016936625/002","1LE0001-1DA33-4AB4-Z160M
+","15kW, 400V, 50Hz, 28A, 2935RPM, cosɸ 0.89, EFF. 90.3%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15,  106kg, ","Bearing :  DE 6209 Z C3,  NDE 6209 Z C3",SET,1,APCOD-1-DW-WW-GAD-302-002-S001
+,107,10GAF12AP001M01,Raw Water Pump For A2 Well (2) Motor,GAF,Well Water  A2 ,0.00MEL,SIEMENS,"
+1803/800016936625/001","1LE0001-1DA33-4AB4-Z160M
+","15kW, 400V, 50Hz, 28A, 2935RPM, cosɸ 0.89, EFF. 90.3%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15,  106kg, ","Bearing :  DE 6209 Z C3,  NDE 6209 Z C3",SET,1,APCOD-1-DW-WW-GAD-302-002-S001
+,108,10GAF23AP001M01,Raw Water Pump For A3 Well (3) Motor,GAF,Well Water  A3 ,0.00MEL,SIEMENS,"
+1803/800016936626/001","1LE0001-1CB23-4AB4-Z132M
+","7.5kW, 400V, 50Hz, 14.9A, 1460RPM, cosɸ 0.82, EFF. 88.7%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15,  73kg, ","Bearing :  DE 6208Z C3,  NDE 6208 Z C3",SET,1,APCOD-1-DW-WW-GAD-302-003-S001
+,109,10GAF22AP001M01,Raw Water Pump For A3 Well (2) Motor,GAF,Well Water  A3 ,0.00MEL,SIEMENS,"
+1803/800016936626/002","1LE0001-1CB23-4AB4-Z132M
+","7.5kW, 400V, 50Hz, 14.9A, 1460RPM, cosɸ 0.82, EFF. 88.7%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15,  73kg, ","Bearing :  DE 6208Z C3,  NDE 6208 Z C3",SET,1,APCOD-1-DW-WW-GAD-302-003-S001
+,110,10GAF33AP001M01,Raw Water Pump For K1 Well (3) Motor,GAF,Well Water  K1 ,0.00MEL,SIEMENS,"
+1803/800016936627/001","1LE0001-2AA43-4AB4-Z200L
+","30kW, 400V, 50Hz, 55A, 2965RPM, cosɸ 0.86, EFF. 92%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 225kg, ","Bearing :  DE 6212Z C3,  NDE 6212 Z C3",SET,1,APCOD-1-DW-WW-GAD-302-004-S001
+,111,10GAF32AP001M01,Raw Water Pump For K1 Well (2) Motor,GAF,Well Water  K1 ,0.00MEL,SIEMENS,"
+1803/800016936627/006","1LE0001-2AA43-4AB4-Z200L
+","30kW, 400V, 50Hz, 55A, 2965RPM, cosɸ 0.86, EFF. 92%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 225kg, ","Bearing :  DE 6212Z C3,  NDE 6212 Z C3",SET,1,APCOD-1-DW-WW-GAD-302-004-S001
+,112,10GAF43AP001M01,Raw Water Pump For K2 Well (3) Motor,GAF,Well Water  K2 ,0.00MEL,SIEMENS,"
+1803/800016936627/004","1LE0001-2AA43-4AB4-Z200L
+","30kW, 400V, 50Hz, 55A, 2965RPM, cosɸ 0.86, EFF. 92%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 225kg, ","Bearing :  DE 6212Z C3,  NDE 6212 Z C3",SET,1,APCOD-1-DW-WW-GAD-302-005-S001
+,113,10GAF42AP001M01,Raw Water Pump For K2 Well (2) Motor,GAF,Well Water K2,0.00MEL,SIEMENS,"
+1803/800016936627/002","1LE0001-2AA43-4AB4-Z200L
+","30kW, 400V, 50Hz, 55A, 2965RPM, cosɸ 0.86, EFF. 92%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 225kg, ","Bearing :  DE 6212Z C3,  NDE 6212 Z C3",SET,1,APCOD-1-DW-WW-GAD-302-005-S001
+,114,10GAF53AP001M01,Raw Water Pump For K3 Well (3) Motor,GAF,Well Water  K3 ,0.00MEL,SIEMENS,"
+1803/800016935997/001","1LE0001-2EA23-4AB4-Z180M
+","22kW, 400V, 50Hz, 40A, 2935RPM, cosɸ 0.87, EFF. 91.3%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 152kg, ","Bearing :  DE 6210Z C3,  NDE 6210 Z C3",SET,1,APCOD-1-DW-WW-GAD-302-006-S001
+,115,10GAF52AP001M01,Raw Water Pump For K3 Well (2) Motor,GAF,Well Water  K3 ,0.00MEL,SIEMENS,"
+1803/800016935997/00X","1LE0001-2EA23-4AB4-Z180M
+","22kW, 400V, 50Hz, 40A, 2935RPM, cosɸ 0.87, EFF. 91.3%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 152kg, ","Bearing :  DE 6210Z C3,  NDE 6210 Z C3",SET,1,APCOD-1-DW-WW-GAD-302-006-S001
+,116,10GAF63AP001M01,Raw Water Pump For K4 Well (3) Motor,GAF,Well Water  K4 ,0.00MEL,SIEMENS,"
+1803/800016936627/003","1LE0001-2AA43-4AB4-Z200L
+","30kW, 400V, 50Hz, 55A, 2965RPM, cosɸ 0.86, EFF. 92%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 225kg, ","Bearing :  DE 6212Z C3,  NDE 6212 Z C3",SET,1,APCOD-1-DW-WW-GAD-302-007-S001
+,117,10GAF62AP001M01,Raw Water Pump For K4 Well (2) Motor,GAF,Well Water  K4 ,0.00MEL,SIEMENS,"
+1803/800016936627/005","1LE0001-2AA43-4AB4-Z200L
+","30kW, 400V, 50Hz, 55A, 2965RPM, cosɸ 0.86, EFF. 92%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 225kg, ","Bearing :  DE 6212Z C3,  NDE 6212 Z C3",SET,1,APCOD-1-DW-WW-GAD-302-007-S001
+,118,10GAF73AP001M01,Raw Water Pump For K5 Well (3) Motor,GAF,Well Water  A2 ,0.00MEL,SIEMENS,"
+1803/800016935969/005","1LE0001-1DA43-4AB4-Z160L
+","18.5kW, 400V, 50Hz, 33A, 2935RPM, cosɸ 0.89, EFF. 90.9%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15,  250kg, ","Bearing :  DE 6209 Z C3,  NDE 6209 Z C3",SET,1,APCOD-1-DW-WW-GAD-302-008-S001
+,119,10GAF72AP001M01,Raw Water Pump For K5 Well (2) Motor,GAF,Well Water  A2 ,0.00MEL,SIEMENS,"
+1803/800016935969/00X","1LE0001-1DA43-4AB4-Z160L
+","18.5kW, 400V, 50Hz, 33A, 2935RPM, cosɸ 0.89, EFF. 90.9%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15,  250kg, ","Bearing :  DE 6209 Z C3,  NDE 6209 Z C3",SET,1,APCOD-1-DW-WW-GAD-302-008-S001
+,120,10GAF83AP001M01,Raw Water Pump For K6 Well (3) Motor,GAF,Well Water  A2 ,0.00MEL,SIEMENS,"
+1803/800016935969/004","1LE0001-1DA43-4AB4-Z160L
+","18.5kW, 400V, 50Hz, 33A, 2935RPM, cosɸ 0.89, EFF. 90.9%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15,  250kg, ","Bearing :  DE 6209 Z C3,  NDE 6209 Z C3",SET,1,APCOD-1-DW-WW-GAD-302-009-S001
+,121,10GAF82AP001M01,Raw Water Pump For K6 Well (2) Motor,GAF,Well Water  A2 ,0.00MEL,SIEMENS,"
+1803/800016935969/006","1LE0001-1DA43-4AB4-Z160L
+","18.5kW, 400V, 50Hz, 33A, 2935RPM, cosɸ 0.89, EFF. 90.9%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15,  250kg, ","Bearing :  DE 6209 Z C3,  NDE 6209 Z C3",SET,1,APCOD-1-DW-WW-GAD-302-009-S001
+,122,10GAF29AP001M01,Feed Water Pump (29) For Demi Unit Motor,GAF,WTP,0.00MEL,SIEMENS,"
+1812/800018700132/002","1LE0001-1EA2334AA5-ZL180M
+","22kW, 400V, 50Hz, 42A, 2935RPM, cosɸ 0.87, EFF. 91.8%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15,  250kg, ","Bearing :  DE 6310 C3,  NDE 6210 C3",SET,1,APCOD-1-DW-WW-GAD-302-011-S001
+,123,10GAF28AP001M01,Feed Water Pump (28) For Demi Unit Motor,GAF,WTP,0.00MEL,SIEMENS,"
+1812/800018700132/001","1LE0001-1DA43-4AB4-Z160L
+","22kW, 400V, 50Hz, 42A, 2935RPM, cosɸ 0.87, EFF. 91.8%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15,  250kg, ","Bearing :  DE 6310 C3,  NDE 6210 C3",SET,1,APCOD-1-DW-WW-GAD-302-011-S001
+,124,10GBB20AM001M01,Coagulation Tank Mixer Motor,GBB, Water Treatment Plant,0.00MEL,,,,,,,,DV-KBE2-WT-001-GBB-01
+,125,10GCN12AP001M01,Acid Unloading Pump (12) Motor,GCN, Water Treatment Plant Dosing Room,0.00MEL,,,,,,,,DV-KBE2-WT-001-GCN-15
+,126,10GCN11AP001M01,Acid Unloading Pump (11) Motor,GCN, Water Treatment Plant Dosing Room,0.00MEL,,,,,,,,DV-KBE2-WT-001-GCN-16
+,127,10GCR18AP001M01,Boiler Acid Cleaning Waste Water Pump (18) Motor,GCR, Water Treatment Plant,0.00MEL,,,,,,,,DV-KBE2-WT-001-GCR-20
+,128,10GCR19AP001M01,Boiler Acid Cleaning Waste Water Pump (19) Motor,GCR, Water Treatment Plant,0.00MEL,,,,,,,,DV-KBE2-WT-001-GCR-20
+,129,10GCR20AN001M01,Waste Neutralization Basin Root Blower (20) Motor,GCR,,,,,,,,,,
+,130,10GCR21AN001M01,Waste Neutralization Basin Root Blower (21) Motor,GCR,,,,,,,,,,
+,131,10GHC25AP001M01,Bottom Ash Cooler Emergency Cooling Water Pump (25) Motor,GHC,,,,,,,,,,
+,132,10GHC24AP001M01,Bottom Ash Cooler Emergency Cooling Water Pump (24) Motor,GHC,,,,,,,,,,
+,133,10GHD13AP001M01,Supply Pump A Motor,GHD,,0.00MEL,,,,,,,,APCOD-1-DW-WW-GMA-302-001-S001 TO S003
+,134,10GHD14AP001M01,Supply Pump B Motor,GHD,,0.00MEL,,,,,,,,APCOD-1-DW-WW-GMA-302-001-S001 TO S003
+,135,10GKB03AP001M01,Non-Potable Water Pump C Motor,GKB, Water Treatment Plant,0.00MEL,SIEMENS,"
+1902/800019066302/001","1LE0001-1DA23-4AA4-Z160M
+","11kW, 400V, 50Hz, 20.5A,2935 RPM, cosɸ 0.86, EFF. 89.5%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 93kg, ","Bearing :  DE 6209 2Z C3,  NDE 6209 2Z C3",SET,1,APCOD-1-DW-WW-GKB-302-001-S001
+,136,10EGA21AP001M01,Fuel Oil Unloading Motor-A,EGA,Fuel Oil Unloading Area ,00.00MEL,JIAMUSI ELECTRIC MACHINE,18K-0488T1-03,YBY3280S-2TH,"75kW, 400V, 50Hz, 128.4A, 2982RPM, cosɸ 0.89, EFF. 94.7%, ExdIIbT4Gb,flameproof CERT : CJX181270 , Th. Cl. 155(F), IP55, SF 1.15,  173kg, ","Bearing :  DE 6314C3,  NDE 6314 C3",SET,1,APCOD-1-DW-ME-EGA-302-001-S001
+,137,10EGA22AP001M01,Fuel Oil Unloading Motor-B,EGA,Fuel Oil Unloading Area ,00.00MEL,JIAMUSI ELECTRIC MACHINE,18K-0488T1-03,YBY3280S-2TH,"75kW, 400V, 50Hz, 128.4A, 2982RPM, cosɸ 0.89, EFF. 94.7%, ExdIIbT4Gb,flameproof CERT : CJX181270 , Th. Cl. 155(F), IP55, SF 1.15,  173kg, ","Bearing :  DE 6314C3,  NDE 6314 C3",SET,1,APCOD-1-DW-ME-EGA-302-001-S001
+,138,10GCY11AE001M01,Electric Hoist Motor,GCY, Water Treatment Plant,0.00MEL,,,,,,,,DV-KBE2-WT-001-GCX-21
+,139,10EGC31AP001M01,Fuel Oil Motor-A,EGC,Fuel Oil Unloading Area ,00.00MEL,JIAMUSI ELECTRIC MACHINE,18K-0489T1-02,YBY3280S-2TH,"75kW, 400V, 50Hz, 128.4A, 2982RPM, cosɸ 0.89, EFF. 94.7%, ExdIIbT4Gb,flameproof CERT : CJX181270 , Th. Cl. 155(F), IP55, SF 1.15,  173kg, ","Bearing :  DE 6314C3,  NDE 6314 C3",SET,1,APCOD-1-DW-ME-EGC-302-001-S001
+,140,10EGC32AP001M01,Fuel Oil Motor-B,EGC,Fuel Oil Unloading Area ,00.00MEL,JIAMUSI ELECTRIC MACHINE,18K-0488T1-03,YBY3160L-2TH,"18.5kW, 400V, 50Hz, 32.5A, 2937RPM, cosɸ 0.89, EFF. 94.7%, ExdIIbT4Gb,flameproof CERT : CJX181270 , Th. Cl. 155(F), IP55, SF 1.15,  173kg, ","Bearing :  DE 6309C3,  NDE 6309 C3",SET,1,APCOD-1-DW-ME-EGC-302-001-S001
+,141,10EGC33AP001M01,Fuel Oil Motor-C,EGC,Fuel Oil Unloading Area ,00.00MEL,JIAMUSI ELECTRIC MACHINE,18K-0488T1-02,YBY3280S-2TH,"75kW, 400V, 50Hz, 128.4A, 2982RPM, cosɸ 0.89, EFF. 94.7%, ExdIIbT4Gb,flameproof CERT : CJX181270 , Th. Cl. 155(F), IP55, SF 1.15,  173kg, ","Bearing :  DE 6314C3,  NDE 6314 C3",SET,1,APCOD-1-DW-ME-EGC-302-001-S001
+,142,10SGA01AP001M01,Motor Driven Fire Pump Motor,SGA,Fire Pump house,00.00MEL,SHANGHAI ELECTRIC ,Z-1500400Y192115,YSKK400-4,"450kW, 11000V, 50Hz, 28.2A, 1484RPM, cosɸ 0.90,  Th. Cl. 155(F), IMB3, IP55,   3500kg, ","Bearing :  DE 6224 C3,  NDE 6224C3",SET,1,APCOD-1-DW-WW-SGA-302-001-S001
+,143,10SGA03AP001M01,Jockey Pump (3) Motor,SGA,Fire Pump house,00.00MEL,THREE PHASE INDUCTION MOTOR ,190101322V2JJ,YES-132S2-S,"7.5kW, 400V, 50Hz, 13.1A, 2920RPM, cosɸ 0.90,  Th. Cl. 155(F),  IP55,   58.5kg, ",,SET,1,APCOD-1-DW-WW-SGA-302-001-S001
+,144,10QLA10AP001M01,Auxiliary Boiler Feedwater Pump-10 Motor,QLA,Auxiliary Boiler,0.00MEL,KOLMEKS,031900037Y,MV65-8-1,"2950,rpm-3ph-50HZ-400V-85.69A-COS,0.9-IP55-45KW","Bearing :  DE 6313 C3,  NDE 6313 C3",SET,1,
+,145,10QLA11AP001M01,Auxiliary Boiler Feedwater Pump-11 Motor,QLA,Auxiliary Boiler,0.00MEL,KOLMEKS,031900038Y,MV65-8-1,"2950,rpm-3ph-50HZ-400V-85.69A-COS,0.9-IP55-45KW","Bearing :  DE 6313 C3,  NDE 6313 C3",SET,1,
+,146,10QCD10AP001M01,Auxiliary Boiler Amonia Dosing Pump-10 Motor,QCD,Auxiliary Boiler,0.00MEL,FENGHUASHI.ANLING.MOTOR.CO.LTD,N/A,YS7124,"400V,1.12Apm,0.370 Kw, 1400 rpm,IP54,S1,Th. Cl. 130(B)",N/A,SET,1,DV-MBY2-1809-4
+,147,10QCD11AP001M01,Auxiliary Boiler Amonia Dosing Pump-11 Motor,QCD,Auxiliary Boiler,0.00MEL,FENGHUASHI.ANLING.MOTOR.CO.LTD,N/A,YS7124,"400V,1.12Apm,0.370 Kw, 1400 rpm,IP54,S1,Th. Cl. 130(B)",N/A,SET,1,DV-MBY2-1809-4
+,148,10SGA04AP001M01,Jockey Pump (4) Motor,SGA,Fire Pump house,00.00MEL,THREE PHASE INDUCTION MOTOR ,,YES-132S2-S,"7.5kW, 400V, 50Hz, 13.1A, 2920RPM, cosɸ 0.90,  Th. Cl. 155(F),  IP55,   58.5kg, ",,SET,1,APCOD-1-DW-WW-SGA-302-001-S001
+,149,10GUK05AP001M01,Clean Storm Water Pump (5) In Future Area Motor,GUK,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S001
+,150,10GUK06AP001M01,Clean Storm Water Pump (6) In Future Area Motor,GUK,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S001
+,151,10GUK01AP001M01,Reused Water Pump (1) In North Basin Motor,GUK,,,XEMC,Y182122553,YE2-315L1-4WF1,"160KW. 3PH. D. 50HZ. 1485RPM. 400V. 270.4A. IP55. IM V1. cosɸ 0.90, EFF. 93.6%, EFF. Cl. IE3, Th. Cl. 155(F),SF 1,  965kg,  ","Bearing :  DE 6319 V2,  NDE 6319 V2",,,APCOD-1-DW-WW-GTA-302-001-S001
+,152,10GUK02AP001M01,Reused Water Pump (2) In North Basin Motor,GUK,,,XEMC,Y182122553,YE2-315L1-4WF1,"160KW. 3PH. D. 50HZ. 1485RPM. 400V. 270.4A. IP55. IM V1. cosɸ 0.90, EFF. 93.6%, EFF. Cl. IE3, Th. Cl. 155(F),SF 1,  965kg,  ","Bearing :  DE 6319 V2,  NDE 6319 V2",,,APCOD-1-DW-WW-GTA-302-001-S001
+,153,10GUK01AT001M01,Reused Water from North Basin Automatic Self-Cleaning Water Filter Motor,GUK,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S001
+,154,10GUK03AP001M01,Reused Water Pump In South Basin -1 Motor,GUK,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S004
+,155,10GUK04AP001M01,Reused Water Pump In South Basin -2 Motor,GUK,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S004
+,156,10GUK03AT001M01,Reused Water From South Basin Automatic Self Cleaning Water Filter Motor,GUK,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S004
+,157,10GUK07AZ001M01,Oil Shale Waste Water Basin Gantry Crane With Grab Motor,GUK,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S005
+,158,10GUK07AP001M01,Oil Shale Waste Water Pump 1 Motor,GUK,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S005
+,159,10GUK08AP001M01,Oil Shale Waste Water Pump 2 Motor,GUK,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S005
+,160,10GUK07AZ002M01,Oil Shale Waste Water Basin Penstock Motor,GUK,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S005
+,161,10GTB01AZ005M01,Travelling Sludge Scraper 1 Motor,GTB,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S003
+,162,10GTB01AZ006M01,Travelling Sludge Scraper 2 Motor,GTB,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S003
+,163,10GTB01AP001M01,Treated Flushing Waste Water Pump 1 Motor,GTB,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S003
+,164,10GTB02AP001M01,Treated Flushing Waste Water Pump 2 Motor,GTB,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S003
+,165,10GTB03AP001M01,Oil Shale Sludge Lifting Pump 1 Motor,GTB,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S003
+,166,10GTB04AP001M01,Oil Shale Sludge Lifting Pump 2 Motor,GTB,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S003
+,167,10GTB05AP001M01,Oil Shale Sludge Lifting Pump 3 Motor,GTB,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S003
+,168,10GTB06AP001M01,Oil Shale Sludge Lifting Pump 4 Motor,GTB,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S003
+,169,10GTB01AZ001M01,Influent Basin Slide Gate 1 Motor,GTB,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S003
+,170,10GTB01AZ002M01,Influent Basin Slide Gate 2 Motor,GTB,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S003
+,171,10GNS01AM001M01,Sludge Thickener Scraper Motor,GNS,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S003
+,172,10GNS02AP001M01,Sludge Thickener Pump 1 Motor,GNS,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S003
+,173,10GNS04AP001M01,Sludge Thickener Pump 2 Motor,GNS,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S003
+,174,10GNS03AT001M01,Centrifugal Dewatering Machine 1 Motor,GNS,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S003
+,175,10GNS05AT001M01,Centrifugal Dewatering Machine 2 Motor,GNS,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S003
+,176,10GNK03AZ001M01,Oil Waste Water Sump Slide Gate Motor,GNK,,,,,,,,,,APCOD-1-DW-WW-RUA-302-001-S001
+,177,10GNK03AP001M01,Oil Waste Water Pump 1 Motor,GNK,,,,,,,,,,APCOD-1-DW-WW-RUA-302-001-S001
+,178,10GNK04AP001M01,Oil Waste Water Pump 2 Motor,GNK,,,,,,,,,,APCOD-1-DW-WW-RUA-302-001-S001
+,179,10GNK07AP001M01,Treated Sanitary Sewage Discharge Water Pump A Motor,GNK,,,,,,,,,,DV-KBE8-T-0006
+,180,10GNK08AP001M01,Treated Sanitary Sewage Discharge Water Pump B Motor,GNK,,,,,,,,,,DV-KBE8-T-0006
+,181,10GNK05AP001M01,Excess Sludge Pump 1 Motor,GNK,,,,,,,,,,DV-KBE8-T-0007
+,182,10GNK06AP001M01,Excess Sludge Pump 2 Motor,GNK,,,,,,,,,,DV-KBE8-T-0007
+,183,10GNK10AG001M01,Sanitary Treatment System Centrifugal Dewatering Machine 1 Generator Unit Motor (1),GNK,,,,,,,,,,DV-KBE8-T-0007
+,184,10GNK10AG002M01,Sanitary Treatment System Centrifugal Dewatering Machine 1 Generator Unit Motor (2),GNK,,,,,,,,,,DV-KBE8-T-0007
+,185,10GNK10AG003M01,Sanitary Treatment System Centrifugal Dewatering Machine 1 Generator Unit Motor (3),GNK,,,,,,,,,,DV-KBE8-T-0007
+,186,10GNK10AG004M01,Sanitary Treatment System Centrifugal Dewatering Machine 1 Generator Unit Motor (4),GNK,,,,,,,,,,DV-KBE8-T-0007
+,187,10GNK11AG001M01,Sanitary Treatment System Centrifugal Dewatering Machine 2 Generator Unit Motor (1),GNK,,,,,,,,,,DV-KBE8-T-0007
+,188,10GNK11AG002M01,Sanitary Treatment System Centrifugal Dewatering Machine 2 Generator Unit Motor (2),GNK,,,,,,,,,,DV-KBE8-T-0007
+,189,10GNK11AG003M01,Sanitary Treatment System Centrifugal Dewatering Machine 2 Generator Unit Motor (3),GNK,,,,,,,,,,DV-KBE8-T-0007
+,190,10GNK11AG004M01,Sanitary Treatment System Centrifugal Dewatering Machine 2 Generator Unit Motor (4),GNK,,,,,,,,,,DV-KBE8-T-0007
+,191,10GQK05AP001M01,Sanitary Sewage Water Lifting Pump 1 Motor,GQK,,,,,,,,,,APCOD-1-DW-WW-GR-302-001-S001
+,192,10GQK06AP001M01,Sanitary Sewage Water Lifting Pump 2 Motor,GQK,,,,,,,,,,APCOD-1-DW-WW-GR-302-001-S001
+,193,10GQK07AP001M01,Sanitary Sewage Water Lifting Pump 3 Motor,GQK,,,,,,,,,,APCOD-1-DW-WW-GR-302-001-S001
+,194,10GQK08AP001M01,Sanitary Sewage Water Lifting Pump 4 Motor,GQK,,,,,,,,,,APCOD-1-DW-WW-GR-302-001-S001
+,195,10GQK09AP001M01,Sanitary Sewage Water Lifting Pump 5 Motor,GQK,,,,,,,,,,APCOD-1-DW-WW-GR-302-001-S001
+,196,10GQK10AP001M01,Sanitary Sewage Water Lifting Pump 6 Motor,GQK,,,,,,,,,,APCOD-1-DW-WW-GR-302-001-S001
+,197,10GQK11AP001M01,Sanitary Sewage Water Lifting Pump 7 Motor,GQK,,,,,,,,,,APCOD-1-DW-WW-GR-302-001-S001
+,198,10GQK12AP001M01,Sanitary Sewage Water Lifting Pump 8 Motor,GQK,,,,,,,,,,APCOD-1-DW-WW-GR-302-001-S001
+,199,10GQK13AP001M01,Sanitary Sewage Water Lifting Pump 9 Motor,GQK,,,,,,,,,,APCOD-1-DW-WW-GR-302-001-S001
+,200,10GQK14AP001M01,Sanitary Sewage Water Lifting Pump 10 Motor,GQK,,,,,,,,,,APCOD-1-DW-WW-GR-302-001-S001
+,201,10GQK03AP001M01,Sanitary Sewage Water Pump 1 Motor,GQK,,,,,,,,,,DV-KBE8-T-0002
+,202,10GQK04AP001M01,Sanitary Sewage Water Pump 2 Motor,GQK,,,,,,,,,,DV-KBE8-T-0002
+,203,10GQK03AT002M01,Regulation Tank Bar Screen Motor,GQK,,,,,,,,,,DV-KBE8-T-0002
+,204,10GQK03AT001M01,Regulation Tank Slide Gate Motor,GQK,,,,,,,,,,DV-KBE8-T-0002
+,205,10GRC01AN001M01,Sanitary Aeration Blower 1 Motor,GRC,,,,,,,,,,DV-KBE8-T-0005
+,206,10GRC02AN001M01,Sanitary Aeration Blower 2 Motor,GRC,,,,,,,,,,DV-KBE8-T-0005
+,207,10GRC03AN001M01,Sanitary Aeration Blower 3 Motor,GRC,,,,,,,,,,DV-KBE8-T-0005
+,208,10GRS01AP001M01,Sludge Return Pump 1 Motor,GRS,,,,,,,,,,DV-KBE8-T-0004
+,209,10GRS02AP001M01,Sludge Return Pump 2 Motor,GRS,,,,,,,,,,DV-KBE8-T-0004
+,210,10GNN01AM003M01,Polymer Solution Tank for Reused Water Poder Feed Motor,GNN,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S003
+,211,10GNN01AM001M01,Polymer Solution Tank for Reused Water Agitator A Motor,GNN,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S003
+,212,10GNN01AM002M01,Polymer Solution Tank for Reused Water Agitator B Motor,GNN,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S003
+,213,10GNN02AP001M01,Polymer Feed Pump for Reused Water 1 Motor,GNN,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S003
+,214,10GNN04AP001M01,Polymer Feed Pump for Reused Water 2 Motor,GNN,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S003
+,215,10GNN05AP001M01,Polymer Feed Pump for Reused Water 3 Motor,GNN,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S003
+,216,10GNN06AP001M01,Polymer Feed Pump for Reused Water 4 Motor,GNN,,,,,,,,,,APCOD-1-DW-WW-GTA-302-001-S003
+,217,10GNN10AM003M01,Polymer Solution For Sanitary Treatment System Tank Poder Feed Motor,GNN,,,,,,,,,,DV-KBE8-T-0007
+,218,10GNN10AM001M01,Polymer Solution For Sanitary Treatment System Tank Agitator A Motor,GNN,,,,,,,,,,DV-KBE8-T-0007
+,219,10GNN10AM002M01,Polymer Solution For Sanitary Treatment System Tank Agitator B Motor,GNN,,,,,,,,,,DV-KBE8-T-0007
+,220,10GNN11AP001M01,Polymer Feed Pump 1 For Sanitary Treatment System Motor,GNN,,,,,,,,,,DV-KBE8-T-0007
+,221,10GNN12AP001M01,Polymer Feed Pump 2 For Sanitary Treatment System Motor,GNN,,,,,,,,,,DV-KBE8-T-0007
+,222,10GRN02AM001M01,NaClO Dosing Tank Agitator Motor,GRN,,,,,,,,,,DV-KBE8-T-0008
+,223,10GRN02AP001M01,NaClO Feed Pump 1 Motor,GRN,,,,,,,,,,DV-KBE8-T-0008
+,224,10GRN02AP002M01,NaClO Feed Pump 2 Motor,GRN,,,,,,,,,,DV-KBE8-T-0008
+,225,11HAN11AP001M01,Blowdown Sump Pump 1 for Unit 1 Motor,HAN,,,,,,,,,,APCOD-1-DW-WW-LCQ-302-102-S001
+,226,11HAN12AP001M01,Blowdown Sump Pump 2 for Unit 1 Motor,HAN,,,,,,,,,,APCOD-1-DW-WW-LCQ-302-102-S001
+,227,11HAN13AP001M01,Blowdown Sump Pump 3 for Unit 1 Motor,HAN,,,,,,,,,,APCOD-1-DW-WW-LCQ-302-102-S001
+,228,10LDN11AP001M01,Acid Metering Pump A For Cation Exchanger Motor,LDN,Water Treatment Plant ,0.00MEL,SIEMENS,1808/80018012024/005,"1LE0001-0EA00-4AA4-90S
+","1.5kW, 400V, 50Hz, 3.15A, 2890RPM, cosɸ 0.84, EFF. 81.3%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15,  18kg, ","Bearing :  DE 6215 C3,  NDE 6215 C3",SET,1,DV-MQD0-M-0012
+,229,10LDN12AP001M01,Acid Metering Pump B For Cation Exchanger Motor,LDN,Water Treatment Plant ,0.00MEL,SIEMENS,1808/80018012024/00X,"1LE0001-0EA00-4AA4-90S
+","1.5kW, 400V, 50Hz, 3.15A, 2890RPM, cosɸ 0.84, EFF. 81.3%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15,  18kg, ","Bearing :  DE 6215 C3,  NDE 6215 C3",SET,1,DV-MQD0-M-0012
+,230,10LDN31AP001M01,Acid Metering Pump A For Mixed Bed Motor,LDN,,,,,,,,,,DV-MQD0-M-0012
+,231,10LDN32AP001M01,Acid Metering Pump B For Mixed Bed Motor,LDN,,,,,,,,,,DV-MQD0-M-0012
+,232,10LDN71AP001M01,Alkali Metering Pump A For Mixed Bed Motor,LDN,,,,,,,,,,DV-MQD0-M-0012
+,233,10LDN72AP001M01,Alkali Metering Pump B For Mixed Bed Motor,LDN,,,,,,,,,,DV-MQD0-M-0012
+,234,10QCC10AP001M01,Auxiliary Boiler Phosphate Dosing Pump-10 Motor,QCC,Auxiliary Boiler,0.00MEL,FENGHUASHI.ANLING.MOTOR.CO.LTD,N/A,YS7124,"400V,1.12Apm,0.370 Kw, 1400 rpm,IP54,S1,Th. Cl. 130(B)",N/A,SET,1,DV-MBY2-1809-4
+,235,10QCC11AP001M01,Auxiliary Boiler Phosphate Dosing Pump-11 Motor,QCC,Auxiliary Boiler,0.00MEL,FENGHUASHI.ANLING.MOTOR.CO.LTD,N/A,YS7124,"400V,1.12Apm,0.370 Kw, 1400 rpm,IP54,S1,Th. Cl. 130(B)",N/A,SET,1,DV-MBY2-1809-4
+,236,10QHL10AN001M01,Auxiliary Boiler Fan Motor,QHL,Auxiliary Boiler,0.00MEL,SIEMENS,1903/80001924101/001,1LE0001-3AB23-4AH4-Z315M,"132kW, 400V, 50Hz, 230A, 1486RPM, cosɸ 0.88, EFF. 94.7%, EFF. Cl. IE2, Th. Cl. 155(F), IMB3, IP55, SF 1.15, 875kg, ","Bearing :  DE 6319 C3,  NDE 6319 C3",SET,1,DV-MBY2-1809-5
+,237,11QCC10AM001M01,Boiler Water Phosphate Dosing Tank 1A Mixer Motor,QCC,,,,,,,,,,DV-VDA3-P&ID-001
+,238,11QCC10AM002M01,Boiler Water Phosphate Dosing Tank 1B Mixer Motor,QCC,,,,,,,,,,DV-VDA3-P&ID-001
+,239,11QCC10AP001M01,Boiler Water Phosphate Metering Pump 1A Motor,QCC,,,,,,,,,,
+,240,11QCC10AP002M01,Boiler Water Phosphate Metering Pump 1B Motor,QCC,,,,,,,,,,
+,241,11QCD11AM001M01,Feed Water Ammonia Dosing Tank 1A Mixer Motor,QCD,,,,,,,,,,DV-VDA3-P&ID-002
+,242,11QCD11AM002M01,Feed Water Ammonia Dosing Tank 1B Mixer Motor,QCD,,,,,,,,,,DV-VDA3-P&ID-002
+,243,11QCD11AP001M01,Feed Water Ammonia Metering Pump 1A Motor,QCD,,,,,,,,,,DV-VDA3-P&ID-002
+,244,11QCD11AP002M01,Feed Water Ammonia Metering Pump 1B Motor,QCD,,,,,,,,,,DV-VDA3-P&ID-002
+,245,11QCD10AP001M01,Feed Water Ammonia Dosing Tanks Filling Pump Motor,QCD,,,,,,,,,,DV-VDA3-P&ID-002
+,246,11QCD12AM001M01,Condensate Water Ammonia Dosing Tank 1A Mixer Motor,QCD,,,,,,,,,,DV-VDA3-P&ID-004
+,247,11QCD12AM002M01,Condensate Water Ammonia Dosing Tank 1B Mixer Motor,QCD,,,,,,,,,,DV-VDA3-P&ID-004
+,248,11QCD12AP001M01,Condensate Water Ammonia Metering Pump 1A Motor,QCD,,,,,,,,,,DV-VDA3-P&ID-004
+,249,11QCD12AP002M01,Condensate Water Ammonia Metering Pump 1B Motor,QCD,,,,,,,,,,DV-VDA3-P&ID-004
+,250,10LDK22AP001M01,CPU Flushing Water Pump A Motor,LDK,,,,,,,,SET,1,DV-MQD0-M-0013
+,251,10LDK23AP001M01,CPU Flushing Water Pump B Motor,LDK,,,,,,,,SET,1,DV-MQD0-M-0013
+,252,10LDK24AP001M01,CPU Flushing Water Pump C Motor,LDK,,,,,,,,SET,1,DV-MQD0-M-0013
+,253,11QCE10AM001M01,Oxygen Scavenger Dosing Tank 1A Mixer Motor,QCE,,,,,,,,,,DV-VDA3-P&ID-003
+,254,11QCE10AM002M01,Oxygen Scavenger Dosing Tank 1B Mixer Motor,QCE,,,,,,,,,,DV-VDA3-P&ID-003
+,255,11QCE11AP001M01,Feed Water Oxygen Scavenger Metering Pump 1A Motor,QCE,,,,,,,,,,DV-VDA3-P&ID-003
+,256,11QCE11AP002M01,Feed Water Oxygen Scavenger Metering Pump 1B Motor,QCE,,,,,,,,,,DV-VDA3-P&ID-003
+,257,11QCE12AP001M01,Condensate Water Oxygen Scavenger Metering Pump 1A Motor,QCE,,,,,,,,,,DV-VDA3-P&ID-003
+,258,11QCE12AP002M01,Condensate Water Oxygen Scavenger Metering Pump 1B Motor,QCE,,,,,,,,,,DV-VDA3-P&ID-003
+,259,11QCE13AP001M01,CCCW Water Oxygen Scavenger Metering Pump 1A Motor,QCE,,,,,,,,,,DV-VDA3-P&ID-003
+,260,11QCE13AP002M01,CCCW Water Oxygen Scavenger Metering Pump 1B Motor,QCE,,,,,,,,,,DV-VDA3-P&ID-003
+,261,11QCE10AP001M01,Oxygen Scavenger Dosing Tanks Filling Pump Motor,QCE,,,,,,,,,,DV-VDA3-P&ID-003
+,262,11QCF10AM001M01,CCCW Antifreezing Agent Dosing Tank Mixer Motor,QCF,,,,,,,,,,DV-VDA3-P&ID-005
+,263,11QCF10AP001M01,CCCW Antifreezing Agent Metering Pump 1A Motor,QCF,,,,,,,,,,DV-VDA3-P&ID-005
+,264,11QCF10AP002M01,CCCW Antifreezing Agent Metering Pump 1B Motor,QCF,,,,,,,,,,DV-VDA3-P&ID-005
